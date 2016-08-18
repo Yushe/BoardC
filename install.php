@@ -206,8 +206,8 @@
 			<table class='special head'>
 			<tr><td class='dark c' colspan='2'><b>User ID #1 Login info</b></td></tr>
 			<tr><td class='light'>Username:</td><td class='light'><input type='text' name='username' $width></td></tr>
-			<tr><td class='light'>Password:</td><td class='light'><input type='text' name='pass1' $width></td></tr>
-			<tr><td class='light'>Retype Password:</td><td class='light'><input type='text' name='pass2' $width></td></tr>
+			<tr><td class='light'>Password:</td><td class='light'><input type='password' name='pass1' $width></td></tr>
+			<tr><td class='light'>Retype Password:</td><td class='light'><input type='password' name='pass2' $width></td></tr>
 			<tr><td class='dark c' colspan='2'><b>Setup options</b></td></tr>
 			<tr><td class='light' colspan='2'><input type='checkbox' name='addforum' value=1 checked> Create sample forums/categories</td></tr>
 			<tr><td class='light' colspan='2'><input type='checkbox' name='additems' value=1 checked> Create sample item shop item(s)</td></tr>
